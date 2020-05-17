@@ -30,12 +30,12 @@ education:
   - course: PhD in Aerospace Engineering
     institution: University of Michigan, Ann Arbor
     year: 2019
-  - course: MSE in Aerospace Engineering
+  - course: MS in Aerospace Engineering
     institution: University of Michigan, Ann Arbor
     year: 2013
   - course: BS in Aerospace Engineering
     institution: Massachusetts Institute of Technology
-    year: 20012
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
