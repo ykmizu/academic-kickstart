@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Aerospace Engineering
+    institution: University of Michigan, Ann Arbor
+    year: 2019
+  - course: MSE in Aerospace Engineering
+    institution: University of Michigan, Ann Arbor
+    year: 2013
+  - course: BS in Aerospace Engineering
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 20012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
